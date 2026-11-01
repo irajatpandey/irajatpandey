@@ -46,7 +46,7 @@ I build resilient, automated cloud-native infrastructure, developer platforms, a
       <br>Terraform
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
   </tr>
@@ -92,10 +92,10 @@ I build resilient, automated cloud-native infrastructure, developer platforms, a
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irajatpandey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rajat's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irajatpandey&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=irajatpandey&theme=tokyonight" alt="Rajat's Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=irajatpandey&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irajatpandey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=irajatpandey&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
