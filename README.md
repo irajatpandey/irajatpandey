@@ -82,7 +82,7 @@ I build resilient, automated cloud-native infrastructure, developer platforms, a
 
 ### 🚀 Featured Projects & Open Source
 
-- 🔹 **[k8gb (CNCF)](https://github.com/k8gb-io/k8gb)**: Contributed OCI release signing workflows with Cosign/Scorecard hardening and CoreDNS chart bug fixes.
+- 🔹 **[k8gb (CNCF)](https://github.com/k8gb-io/k8gb)**: Open-source contributor to Kubernetes Global Balancer. Improved Helm OCI release automation by implementing targeted chart publishing and Cosign signing, with version validation, workflow hardening, and historical chart backfill support. ([PR #2568](https://github.com/k8gb-io/k8gb/pull/2568))
 - 🔹 **[eks-web-cli](https://github.com/irajatpandey/eks-web-cli)**: Lightweight, secure Web CLI for AWS EKS enforcing application-level namespace isolation.
 - 🔹 **[ai-log-analyzer](https://github.com/irajatpandey/ai-log-analyzer)**: Automated log analysis and error diagnostic tooling powered by AI.
 - 🔹 **[platform-workflows](https://github.com/irajatpandey/platform-workflows)**: Reusable, hardened GitHub Actions workflows for production CI/CD pipelines.
